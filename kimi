@@ -1,0 +1,43 @@
+echo "# kimikimitest" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kimikimi123/kimikimitest.gitaa
+git push -u origin mainecho "# kimikimitest" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kimikimi123/kimikimitest.gitaaa
+git push -u origin mainecho "# kimikimitest" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kimikimi123/kimikimitest.git
+git push -u origin mainecho "# kimikimitest" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kimikimi123/kimikimitest.git
+git push -u origin mainecho "# kimikimitest" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kimikimi123/kimikimitest.git
+git push -u origin mainecho "# kimikimitest" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kimikimi123/kimikimitest.git
+git push -u origin mainecho "# kimikimitest" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kimikimi123/kimikimitest.git
+git push -u origin main
